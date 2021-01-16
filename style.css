@@ -1,0 +1,14 @@
+body {
+  background-image: url(./img/begin_coffe.jfif);
+  background-size: cover;
+}
+h1 {
+  color: rgb(116, 18, 18);
+  font-weight: 100;
+  filter: opacity(80%);
+  text-align: center;
+  font-size: 15em;
+}
+main {
+  margin-top: 10%;
+}
